@@ -1,1 +1,2 @@
 # modelviewcontrolAtechblog
+This is a tech blog. Users can log into an account (passwords will be encrypted and passwords will be hashed/salted) where they can post a small summary of information they've gained in their journeys through the tech world.
